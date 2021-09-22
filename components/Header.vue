@@ -7,7 +7,7 @@
         <div class="h-full bg-gray-700 font-extrabold flex flex-col md:flex-row shadow-lg">
             <div v-if="false" class="text-gray-100 text-center p-7">Hello!</div>
             <nuxt-link to="/" class="menu-item">
-               <div class="fa fa-home center w3-xlarge"></div>
+               <div class="fa fa-home center w3-large"></div>
             </nuxt-link>
             <nuxt-link to="/about" class="menu-item">
                <label>About</label> 
