@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <div class="h-full bg-gray-700 font-extrabold flex flex-col md:flex-row shadow-lg">
-            <div v-if="false" class="text-gray-100 text-center p-7">Hello!</div>
+            <div v-if="false" class="text-gray-100 text-center p-7">Made by Shivani Bhardwaj</div>
             <nuxt-link to="/" class="menu-item">
                <div class="fa fa-home center w3-large"></div>
             </nuxt-link>
@@ -19,7 +19,7 @@
                 Click me
             </nuxt-link>
         </div>
-        <div class="px-28">
+        <div class="md:px-32">
             <div class="arrow-up md:float-right"></div>
         </div>
     </header>
