@@ -15,10 +15,12 @@
             <nuxt-link to="/blog" class="menu-item">
                 Blog
             </nuxt-link>
-            <nuxt-link to="/interests" class="menu-item">
-                Interests
+            <nuxt-link to="/clickme" class="menu-item">
+                Click me
             </nuxt-link>
-
+        </div>
+        <div class="px-28">
+            <div class="arrow-up md:float-right"></div>
         </div>
     </header>
 </template>
@@ -26,5 +28,19 @@
 <style>
 .menu-item {
     @apply p-7 flex-auto block text-center h-full text-gray-200 hover:bg-gray-400
+}
+.arrow-up {
+    width: 0; 
+    height: 0;  
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent; 
+    border-bottom: 20px solid rgb(248, 135, 5);
+    animation: bounce 0.7s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
+@keyframes bounce {
+  from { transform: translate3d(0, 0, 0);     }
+  to   { transform: translate3d(0, 30px, 0); }
 }
 </style>
