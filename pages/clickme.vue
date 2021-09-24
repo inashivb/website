@@ -1,9 +1,9 @@
 <template lang="html">
     <div>
     <Header/>
-        <p class="px-8 py-3 text-left text-2xl pt-32">Since you fell for the (annoying) clickbait, here's your chance to do a noble deed.</p>
-        <p class="px-8 py-3 text-left text-2xl">Below is the list of a few open source projects that are awesome and I endorse.</p>
-        <p class="px-8 py-3 text-left text-2xl">If you also use any of these projects, please consider donating. If you are not in a position to donate, please give them a shout-out on Twitter, check their GitHub and leave a &#11088;!</p>
+        <p class="pt-32">Since you fell for the (annoying) clickbait, here's your chance to do a noble deed.</p>
+        <p>Below is the list of a few open source projects that are awesome and I endorse.</p>
+        <p>If you also use any of these projects, please consider donating. If you are not in a position to donate, please give them a shout-out on Twitter, check their GitHub and leave a &#11088;!</p>
         <div class="flex-col p-10">
             <div class="card" onclick="location.href='https://oisf.net/memberships'">
                 <a href="#"></a>

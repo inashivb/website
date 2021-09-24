@@ -4,10 +4,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <Header />
         <p class="px-8 text-left text-2xl pt-32">I am Shivani. I work as a programmer. I am found someplace in India for most of the year.</p>
-        <p class="px-8 py-3 text-left text-2xl">I get paid to <s>write code</s> break code and the fix it. I sometimes architect solutions and develop features too.</p>
-        <p class="px-8 py-3 text-left text-2xl">I am currently employed by <a class="text-blue-600" href="https://oisf.net/">OISF</a> to work on <a class="text-blue-600" href="https://suricata.io/">Suricata</a> and its <a class="text-blue-600" href="https://github.com/orgs/OISF/repositories">auxiliary tools</a>.</p>
-        <p class="px-8 py-3 text-left text-2xl">My current favorite programming language is Rust.</p>
-        <p class="px-8 py-3 text-left text-2xl">My text editor of choice is Vim.</p>
+        <p>I get paid to <s>write code</s> break code and the fix it. I sometimes architect solutions and develop features too.</p>
+        <p>I am currently employed by <a class="text-blue-600" href="https://oisf.net/">OISF</a> to work on <a class="text-blue-600" href="https://suricata.io/">Suricata</a> and its <a class="text-blue-600" href="https://github.com/orgs/OISF/repositories">auxiliary tools</a>.</p>
+        <p>My current favorite programming language is Rust.</p>
+        <p>My text editor of choice is Vim.</p>
         <p class="px-8 pt-3 pb-8 text-left text-2xl font-bold">Computer languages</p>
         <div class="flex flex-row pr-10">
             <div class="text-center w-40">Rust</div>

@@ -2,8 +2,8 @@
   <div class="relative">
     <Header />
         <h1 class="pt-32 pb-8 text-center text-5xl font-extrabold">Hello, beautiful human!</h1>
-        <p class="px-8 text-left text-2xl">Welcome to my little corner on the web.</p>
-        <p class="px-8 text-left text-2xl">Here are some pretty pictures to lift your mood and... fill this page up. &#128517;</p>
+        <p>Welcome to my little corner on the web.</p>
+        <p>Here are some pretty pictures to lift your mood and... fill this page up. &#128517;</p>
         <div class="flex flex-col items-center pb-10">
           <div class="m-auto p-8">
             <img src='~assets/lake.JPG' alt="Mirror Lake">
@@ -38,5 +38,11 @@ img {
   padding: 5px;
   height: 400px;
   width: 100%;
+}
+
+p {
+  padding: 12px 32px;
+  text-align: left;
+  font-size: 24px;
 }
 </style>
