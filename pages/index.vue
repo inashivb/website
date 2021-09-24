@@ -1,22 +1,22 @@
 <template>
   <div class="relative">
     <Header />
-        <h1 class="pt-32 pb-8 text-center text-5xl font-extrabold">Helloooooo, beautiful human!</h1>
-        <p class="p-3 text-left text-2xl">Welcome to my little corner on the web.</p>
-        <p class="p-3 text-left text-2xl">Here are some pretty pictures to lift your mood and... fill this page up. &#128517;</p>
+        <h1 class="pt-32 pb-8 text-center text-5xl font-extrabold">Hello, beautiful human!</h1>
+        <p class="px-8 text-left text-2xl">Welcome to my little corner on the web.</p>
+        <p class="px-8 text-left text-2xl">Here are some pretty pictures to lift your mood and... fill this page up. &#128517;</p>
         <div class="flex flex-col items-center pb-10">
           <div class="m-auto p-8">
             <img src='~assets/lake.JPG' alt="Mirror Lake">
           </div>
-          </br>
+          <br>
           <div class="m-auto p-8">
             <img src='~assets/lone-red-tree.JPG' alt="Lone Red Tree">
           </div>
-          </br>
+          <br>
           <div class="m-auto p-8">
             <img src='~assets/rain-mountains.JPG' alt="Pouring on Mountains">
           </div>
-          </br>
+          <br>
           <div class="m-auto p-8">
             <img src='~assets/jardin-luxem.JPG' alt="Grey in Sky Rainbow on Earth">
           </div>                              
