@@ -10,7 +10,7 @@
                <div class="fa fa-home center w3-large"></div>
             </nuxt-link>
             <nuxt-link to="/about" class="menu-item">
-               <label>About</label> 
+                About
             </nuxt-link>
             <nuxt-link to="/blog" class="menu-item">
                 Blog

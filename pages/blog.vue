@@ -1,6 +1,5 @@
 <template lang="html">
     <div>
-    <Header />
     <script>
         export default {
             async asyncData({ $content, params }) {
@@ -15,6 +14,5 @@
             }
         }
     </script>
-    <Footer />
     </div>
 </template>
