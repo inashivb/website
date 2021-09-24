@@ -2,12 +2,12 @@
     <div>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <p class="px-8 text-left text-2xl pt-12">I am Shivani. I work as a programmer. I am found someplace in India for most of the year.</p>
+        <p class="pt-12">I am Shivani. I work as a programmer. I am found someplace in India for most of the year.</p>
         <p>I get paid to <s>write code</s> break code and the fix it. I sometimes architect solutions and develop features too.</p>
         <p>I am currently employed by <a class="text-blue-600" href="https://oisf.net/">OISF</a> to work on <a class="text-blue-600" href="https://suricata.io/">Suricata</a> and its <a class="text-blue-600" href="https://github.com/orgs/OISF/repositories">auxiliary tools</a>.</p>
         <p>My current favorite programming language is Rust.</p>
         <p>My text editor of choice is Vim.</p>
-        <p class="px-8 pt-3 pb-8 text-left text-2xl font-bold">Computer languages</p>
+        <p class="text-3xl">Computer languages</p>
         <div class="flex flex-row pr-10">
             <div class="text-center w-40">Rust</div>
             <div class="comp-lang-fr-bar w-1/2"></div>
@@ -23,7 +23,7 @@
             <div class="comp-lang-fr-bar w-4/5"></div>
             <div class="comp-lang-bk-bar w-1/5">80%</div>
         </div><br> 
-        <p class="px-8 pt-3 pb-8 text-left text-2xl font-bold">Human Languages</p>
+        <p class="text-3xl">Human Languages</p>
         <div class="flex flex-row pr-10">
             <div class="text-center w-40">हिंदी</div>
             <div class="human-lang-fr-bar w-11/12"></div>
@@ -39,7 +39,7 @@
             <div class="human-lang-fr-bar w-3/5"></div>
             <div class="human-lang-bk-bar w-2/5">60%</div>
         </div><br>
-        <p class="px-8 pt-3 text-left text-2xl font-bold">Social links</p>
+        <p class="text-3xl">Social links</p>
         <div class="pl-8 flex flex-row">
             <div><a href="https://www.linkedin.com/in/shivan1" class="icon fa fa-linkedin flex-grow"></a></div>
             <div><a href="https://twitter.com/tuxish" class="icon fa fa-twitter flex-grow"></a></div>
@@ -51,22 +51,22 @@
 
 <style>
 .comp-lang-fr-bar {
-    background: #fcd34d;
+    background: #4b5563;
     display: flex-grow;
 }
 
 .comp-lang-bk-bar {
-    background: #fef3c7;
+    background: #d1d5db;
     display: flex-grow;
 }
 
 .human-lang-fr-bar {
-    background: #f472b6;
+    background: #f87171;
     display: flex-grow;
 }
 
 .human-lang-bk-bar {
-    background: #fbcfe8;
+    background: #fee2e2;
     display: flex-grow;
 }
 
@@ -75,7 +75,7 @@
   font-size: 30px;
   text-align: center;
   margin: 5px 5px;
-  border-radius: 50%;
+  border-radius: 20%;
 }
 
 .fa:hover {

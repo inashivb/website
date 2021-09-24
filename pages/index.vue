@@ -32,11 +32,3 @@ import Vue from 'vue'
 
 export default Vue.extend({})
 </script>
-
-<style>
-p {
-  padding: 12px 32px;
-  text-align: left;
-  font-size: 24px;
-}
-</style>
