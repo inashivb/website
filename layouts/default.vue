@@ -4,7 +4,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap" rel="stylesheet">
-        <Nuxt class="h-screen"/>
+        <Nuxt class="md:h-screen"/>
         <br /><br /><br />
         <Footer />
     </div>

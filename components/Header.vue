@@ -19,7 +19,7 @@
                 Click me
             </nuxt-link>
         </div>
-        <div class="md:px-32">
+        <div class="md:px-40">
             <div class="arrow-up md:float-right"></div>
         </div>
     </header>
