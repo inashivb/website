@@ -2,7 +2,7 @@
   <div>
         <h1 class="pt-12 pb-8 text-center text-5xl font-extrabold">Hello, beautiful human!</h1>
         <p>Welcome to my little corner on the web.</p>
-        <p>Here are some pretty pictures to lift your mood and... fill this page up. &#128517;</p>
+        <p>Here are some pretty pictures I clicked to lift your mood and... fill this page up. &#128517;</p>
         <br />
         <div class="grid grid-cols-3 gap-2 items-center">
           <div class="m-auto p-3 border-2 border-grey w-4/5">

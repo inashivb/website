@@ -1,18 +1,6 @@
 <template lang="html">
     <div>
-    <script>
-        export default {
-            async asyncData({ $content, params }) {
-            const articles = await $content('blog')
-                .only(['title', 'slug'])
-                .sortBy('createdAt', 'asc')
-                .fetch()
-
-            return {
-                articles
-                }
-            }
-        }
-    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <p class="py-20 text-5xl text-center">Coming soon!</p>
     </div>
 </template>

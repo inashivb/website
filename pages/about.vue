@@ -2,8 +2,8 @@
     <div>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <p class="pt-12">I am Shivani. I work as a programmer. I am found someplace in India for most of the year.</p>
-        <p>I get paid to <s>write code</s> break code and the fix it. I sometimes architect solutions and develop features too.</p>
+        <p class="pt-12">I am Shivani. I work as a programmer. I am found at some place in India for most of the year.</p>
+        <p>I get paid to <s>write code</s> break code and then fix it. I sometimes architect solutions and develop features too.</p>
         <p>I am currently employed by <a class="text-blue-600" href="https://oisf.net/">OISF</a> to work on <a class="text-blue-600" href="https://suricata.io/">Suricata</a> and its <a class="text-blue-600" href="https://github.com/orgs/OISF/repositories">auxiliary tools</a>.</p>
         <p>My current favorite programming language is Rust.</p>
         <p>My text editor of choice is Vim.</p>
