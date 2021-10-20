@@ -16,6 +16,10 @@ export default {
     ]
   },
 
+  target: 'static',
+
+  router: {base: ''},
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
@@ -33,6 +37,10 @@ export default {
     '@nuxt/typescript-build',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+//    '@nuxt/image', {
+//        provider: 'static',
+//        dir: 'assets',
+//    }
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -40,6 +48,5 @@ export default {
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {
-  }
+  build: {}
 }
