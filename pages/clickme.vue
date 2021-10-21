@@ -25,7 +25,7 @@
                 </div>
             </div>
         </br>
-            <div class="card" onclick="location.href='hhttps://github.com/darktable-org/darktable'">
+            <div class="card" onclick="location.href='https://github.com/darktable-org/darktable'">
                <a href="#"></a>
                 <div>
                     <h2 class="font-bold">Darktable</h2>
