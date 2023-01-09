@@ -36,7 +36,7 @@ export default {
     // https://go.nuxtjs.dev/typescript
     '@nuxt/typescript-build',
     // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss',
+    '@nuxtjs/tailwindcss'
 //    '@nuxt/image', {
 //        provider: 'static',
 //        dir: 'assets',
@@ -45,8 +45,19 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    '@nuxt/content'
   ],
+//  generate: {
+//    async routes () {
+//    const { $content } = require('@nuxt/content')
+//    const files = await $content({ deep: true }).only(['path']).fetch()
+//
+//    return files.map(file => file.path === '/index' ? '/' : file.path)
+//    }
+//  },
+  content: {
 
+  },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {}
 }
